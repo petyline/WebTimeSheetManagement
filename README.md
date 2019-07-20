@@ -2,7 +2,7 @@
 
 <b>Cash Workflow Approval Application ASP.NET MVC 5</b>
 
-<img src="https://github.com/saineshwar/WebTimeSheetManagement/blob/master/Timesheetimg.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
+<img src="http://ivero.net/solutions/ExpenseApprovalSystem/images/WorkflowDiagram.png" alt="Banner" title="Banner" style="max-width:100%;">
 
 <b>Link to Complete Documentation</b> :- https://www.c-sharpcorner.com/article/timesheet-project-process-using-mvc-5/
 
